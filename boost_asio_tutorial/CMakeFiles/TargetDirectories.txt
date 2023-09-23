@@ -1,0 +1,3 @@
+/home/lando/Projects/BoostWebSocketTutorial/CMakeFiles/boost_tutorial.dir
+/home/lando/Projects/BoostWebSocketTutorial/CMakeFiles/edit_cache.dir
+/home/lando/Projects/BoostWebSocketTutorial/CMakeFiles/rebuild_cache.dir
